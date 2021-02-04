@@ -9,14 +9,6 @@ I have recently completed a [Tailwind CSS tutorial](https://www.youtube.com/watc
 YouTube series by the net ninja ([repo link](https://github.com/paul-blackwell/Tailwind-CSS-Tutorial)) and wanted to test what I had learnt from that series in a Next.js project.
 
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
-
 ## The challenge
 
 Your challenge is to build out this intro component and get it looking as close to the design as possible.
