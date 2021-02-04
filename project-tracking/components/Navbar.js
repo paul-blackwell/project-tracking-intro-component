@@ -28,7 +28,7 @@ const Navbar = (props) => {
                 <li><a href="#" className="py-5 md:py-0 md:mr-7 text-center block md:inline">Product</a></li>
                 <li><a href="#" className="pb-5 md:py-0 md:mr-7 text-center block md:inline">Features</a></li>
                 <li><a href="#" className="pb-5 md:py-0 md:mr-7 text-center block md:inline">Pricing</a></li>
-                <li><div></div></li>
+                <li><div className="hidden w-2 h-2 bg-neutral-200 rounded-full  md:mr-7 md:mt-3 md:block"></div></li>
                 <li><a href="#" className="py-5 md:py-0  text-center border-t-2 border-neutral-100 md:border-none text-neutral-200 block">Login</a></li>
             </ul>
         </nav>
