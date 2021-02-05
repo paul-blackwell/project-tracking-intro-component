@@ -1,7 +1,7 @@
 
 const PrimaryButton = (props) => {
 
-    const buttonStyles = 'block rounded-md text-center tracking-wider bg-primary font-bold px-7 py-3 text-white uppercase cursor-pointer  transform ease-out duration-700  hover:scale-105 w-full'
+    const buttonStyles = 'block rounded-md text-center tracking-wider bg-primary font-bold px-4 py-3 text-white uppercase cursor-pointer  transform ease-out duration-700  hover:scale-105 w-full no-underline';
 
     if (props.type === 'link') {
         return (
