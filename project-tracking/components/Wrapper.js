@@ -1,6 +1,6 @@
 
 const Wrapper = (props) => (
-    <div className="max-w-screen-xl mx-auto px-9">
+    <div className="max-w-screen-xl mx-auto mt-32 px-9 text-2xl relative">
        {props.children}
     </div>
 );
