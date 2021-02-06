@@ -16,7 +16,7 @@ module.exports = {
         body: ['Barlow Condensed']
       },
       height: {
-        test: '50vh'
+        test: 'calc(100vh - 104px)'
       }
     },
   },

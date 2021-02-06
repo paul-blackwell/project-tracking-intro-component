@@ -26,5 +26,6 @@
 
 body {
     @apply font-body;
+    overflow-x: hidden;
 }
 
