@@ -14,6 +14,9 @@ module.exports = {
       },
       fontFamily: {
         body: ['Barlow Condensed']
+      },
+      height: {
+        test: '50vh'
       }
     },
   },
