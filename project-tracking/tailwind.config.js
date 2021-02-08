@@ -16,7 +16,9 @@ module.exports = {
         body: ['Barlow Condensed']
       },
       margin: {
-        hero: '0 0 0 20vw'
+        hero: '0 0 0 20vw',
+        headerSm: '50vh 0 0 0',
+        headerLg: '30vh 0 0 0',
       },
       height: {
         hero: '30vh'
