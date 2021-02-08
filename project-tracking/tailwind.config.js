@@ -15,9 +15,12 @@ module.exports = {
       fontFamily: {
         body: ['Barlow Condensed']
       },
+      margin: {
+        hero: '0 0 0 20vw'
+      },
       height: {
-        test: 'calc(100vh - 104px)'
-      }
+        hero: '30vh'
+      },
     },
   },
   variants: {

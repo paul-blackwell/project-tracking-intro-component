@@ -4,8 +4,11 @@ import PrimaryButton from './buttons/PrimaryButton';
 
 const Main = (props) => {
     return (
-        <main>
-            <header className="relative mt-12 max-w-md">
+        <main className="grid grid-cols-1">
+            <div className="relative h-hero">
+                <img className="absolute w-full h-auto m-hero" src="/images/illustration-devices.svg" alt="hero" />
+            </div>
+            <header className="relative md:mt-12 max-w-md">
                 <SpanRounded>New</SpanRounded>
                 <span className="text-neutral-200 tracking-wider uppercase text-xl">Monograph dashboard</span>
                 <h1 className="uppercase text-5xl font-bold text-neutral-400 mt-6">
