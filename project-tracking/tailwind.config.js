@@ -17,11 +17,9 @@ module.exports = {
       },
       margin: {
         hero: '0 0 0 20vw',
-        headerSm: '50vh 0 0 0',
-        headerLg: '30vh 0 0 0',
       },
       height: {
-        hero: '30vh'
+        hero: '35vh'
       },
     },
   },
