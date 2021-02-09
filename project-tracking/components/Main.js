@@ -8,10 +8,10 @@ const Main = (props) => {
             {/* <div className="relative h-hero">
                 <img className="absolute w-full h-auto m-hero" src="/images/illustration-devices.svg" alt="hero" />
             </div> */}
-            <header className="relative m-header max-w-md">
+            <header className="relative m-headerSmall md:m-headerMedium max-w-md ">
                 <SpanRounded>New</SpanRounded>
                 <span className="text-neutral-200 tracking-wider uppercase text-xl">Monograph dashboard</span>
-                <h1 className="uppercase text-4xl font-bold text-neutral-400 mt-6">
+                <h1 className="uppercase text-4xl xl:text-6xl font-bold text-neutral-400 mt-6">
                     <span className="block">Powerful insights</span>
                     <span>into your team</span>
                 </h1>
