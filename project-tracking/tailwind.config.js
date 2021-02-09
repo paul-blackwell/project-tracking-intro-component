@@ -17,9 +17,13 @@ module.exports = {
       },
       margin: {
         hero: '0 0 0 20vw',
+        header: '55vh 0 0 0',
       },
       height: {
         hero: '35vh'
+      },
+      width: {
+        hero: '140vw'
       },
     },
   },
